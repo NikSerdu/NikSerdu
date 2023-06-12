@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
 <h3 align="center">A frontend developer from Russia</h3>
